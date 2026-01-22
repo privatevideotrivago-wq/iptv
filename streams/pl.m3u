@@ -189,3 +189,5 @@ https://liveovh010.cda.pl/enc010/nickjrraw/nickjrraw.mpd
 https://liveovh010.cda.pl/enc005/kinopolskahdraw/kinopolskahdraw.mpd
 #EXTINF:-1 tvg-id="ParamountNetwork.pl@SD",Paramount Network (1080p)
 https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
+#EXTINF:-1 tvg-id="CBeebies.pl@SD",CBeebies (576p)
+https://liveovh010.cda.pl/enc022/bbccbeebiesraw/bbccbeebiesraw.mpd
